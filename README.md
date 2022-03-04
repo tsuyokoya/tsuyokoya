@@ -1,16 +1,27 @@
-### Hi there 👋
+### Welcome to my GitHub!
 
-<!--
-**tsuyokoya/tsuyokoya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently enrolled in the 800 hour Software Engineering Career Track Course @ Springboard.
+- 💬 Ask me about anything related to Lord of the Rings!
+- 😄 Pronouns: He / Him
+- 📫 How to reach me: 
+  - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/tsuyoshi-koyama-2018/)
+  - Email: tsuyoshikoyama2525@gmail.com
+  - Phone: 978-930-1786
 
-Here are some ideas to get you started:
+- Check out some of my recent projects!
+  - Jeopardy(https://tsuyokoya.github.io/jeopardy/)
+  - Connect Four (https://tsuyokoya.github.io/connect-four/)
+  - Cat Friends (https://tsuyokoya.github.io/cat-friends/)
+  - TV Maze (https://tsuyokoya.github.io/tv-maze/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Languages/frameworks/tools: 
+  - HTML / CSS
+  - JavaScript
+<!--   - Python
+  - Flask
+  - Node
+  - Express
+  - React
+  - SQL
+  - MongoDB/Mongoose
+  - Git -->
