@@ -8,13 +8,13 @@
   - Email: tsuyoshikoyama2525@gmail.com
   - Phone: 978-930-1786
 
-- Check out some of my recent projects!
+### Check out some of my recent projects!
   - Jeopardy(https://tsuyokoya.github.io/jeopardy/)
   - Connect Four (https://tsuyokoya.github.io/connect-four/)
   - Cat Friends (https://tsuyokoya.github.io/cat-friends/)
   - TV Maze (https://tsuyokoya.github.io/tv-maze/)
 
-- Languages/frameworks/tools: 
+### Languages/frameworks/tools: 
   - HTML / CSS
   - JavaScript
 <!--   - Python
