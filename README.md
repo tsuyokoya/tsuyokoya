@@ -14,7 +14,7 @@
   - Cat Friends (https://tsuyokoya.github.io/cat-friends/)
   - TV Maze (https://tsuyokoya.github.io/tv-maze/)
 
-### Languages/frameworks/tools: 
+### Languages / frameworks / tools: 
   - HTML / CSS
   - JavaScript
 <!--   - Python
