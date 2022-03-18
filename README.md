@@ -15,13 +15,11 @@
   - TV Maze (https://tsuyokoya.github.io/tv-maze/)
 
 ### Languages / frameworks / tools: 
-  - HTML / CSS
-  - JavaScript
+  - Front-end: HTML | CSS | JavaScript | React
+  - Back-end: Flask | PostgreSQL
 <!--   - Python
-  - Flask
   - Node
   - Express
-  - React
   - SQL
   - MongoDB/Mongoose
   - Git -->
