@@ -10,6 +10,7 @@
 ### Check out some of my recent projects!
   - Jeopardy (https://tsuyokoya.github.io/jeopardy/)
   - Connect Four (https://tsuyokoya.github.io/connect-four/)
+  - Currency Converter (http://tsuyokoya.pythonanywhere.com/)
   - Cat Friends (https://tsuyokoya.github.io/cat-friends/)
   - TV Maze (https://tsuyokoya.github.io/tv-maze/)
 
