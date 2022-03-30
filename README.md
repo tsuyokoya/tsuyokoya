@@ -16,10 +16,9 @@
 
 ### Languages / frameworks / tools: 
   - Front-end: HTML | CSS | JavaScript | React
-  - Back-end: Flask | PostgreSQL
+  - Back-end: Flask | PostgreSQL | WTForms
 <!--   - Python
   - Node
   - Express
-  - SQL
   - MongoDB/Mongoose
   - Git -->
