@@ -8,11 +8,11 @@
   - ✉️: tsuyoshikoyama2525@gmail.com
 
 ### Check out some of my recent projects!
-  - Jeopardy (https://tsuyokoya.github.io/jeopardy/)
-  - Connect Four (https://tsuyokoya.github.io/connect-four/)
-  - Currency Converter (http://tsuyokoya.pythonanywhere.com/)
-  - Cat Friends (https://tsuyokoya.github.io/cat-friends/)
-  - TV Maze (https://tsuyokoya.github.io/tv-maze/)
+  - Jeopardy [Link](https://tsuyokoya.github.io/jeopardy/) | [Repo](https://github.com/tsuyokoya/jeopardy)
+  - Connect Four [Link](https://tsuyokoya.github.io/connect-four/) | [Repo](https://github.com/tsuyokoya/connect-four)
+  - Currency Converter [Link](http://tsuyokoya.pythonanywhere.com/) | [Repo](https://github.com/tsuyokoya/forex-converter)
+  - Cat Friends [Link](https://tsuyokoya.github.io/cat-friends/) | [Repo](https://github.com/tsuyokoya/cat-friends)
+  - TV Maze [Link](https://tsuyokoya.github.io/tv-maze/) | [Repo](https://github.com/tsuyokoya/tv-maze)
 
 ### Languages / frameworks / tools: 
   - Front-end: HTML | CSS | JavaScript | React
