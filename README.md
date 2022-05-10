@@ -1,6 +1,6 @@
 ### Welcome to my GitHub!
 
-- 🌱 I’m currently enrolled in the 800 hour Software Engineering Career Track Course @ Springboard.
+- 🌱 I’m currently enrolled in the 800 hour Software Engineering Career Track Course.
 - 💬 Ask me about anything related to The Lord of the Rings!
 - 😄 Pronouns: He / Him
 - 📫 How to reach me: 
