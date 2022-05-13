@@ -13,7 +13,7 @@
   - Jeopardy [Link](https://tsuyokoya.github.io/jeopardy/) | [Repo](https://github.com/tsuyokoya/jeopardy)
   - Cat Friends [Link](https://tsuyokoya.github.io/cat-friends/) | [Repo](https://github.com/tsuyokoya/cat-friends)
   - Currency Converter [Link](http://tsuyokoya.pythonanywhere.com/) | [Repo](https://github.com/tsuyokoya/forex-converter)
-  - 
+  
 ### Languages / frameworks / tools: 
   - Front-end: HTML | CSS | JavaScript | React
   - Back-end: Flask | PostgreSQL | WTForms
