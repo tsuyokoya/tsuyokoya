@@ -8,6 +8,8 @@
   - ✉️: tsuyoshikoyama2525@gmail.com
 
 ### Check out some of my recent projects!
+  - Vibify [Link](https://tk-vibify.herokuapp.com/) | [Repo](https://github.com/tsuyokoya/vibify)
+  - Jobly [Repo](https://github.com/tsuyokoya/jobly-express)
   - Lights Out [Link](https://tsuyokoya-lights-out.netlify.app/) | [Repo](https://github.com/tsuyokoya/lights-out)
   - Connect Four [Link](https://tsuyokoya.github.io/connect-four/) | [Repo](https://github.com/tsuyokoya/connect-four)
   - TV Maze [Link](https://tsuyokoya.github.io/tv-maze/) | [Repo](https://github.com/tsuyokoya/tv-maze)
@@ -16,10 +18,5 @@
   - Currency Converter [Link](http://tsuyokoya.pythonanywhere.com/) | [Repo](https://github.com/tsuyokoya/forex-converter)
   
 ### Languages / frameworks / tools: 
-  - Front-end: HTML | CSS | JavaScript | React
-  - Back-end: Flask | PostgreSQL | WTForms | bCrypt
-<!--   - Python
-  - Node
-  - Express
-  - MongoDB/Mongoose
-  - Git -->
+  - Front-end: JavaScript | React | CSS | Bootstrap | Tailwind CSS | HTML
+  - Back-end: Flask | Node | Express | PostgreSQL
