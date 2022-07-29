@@ -9,6 +9,7 @@
 
 ### Check out some of my recent projects!
   - Vibify [Link](https://tk-vibify.herokuapp.com/) | [Repo](https://github.com/tsuyokoya/vibify)
+  - Jobly (Frontend) [Repo](https://github.com/tsuyokoya/jobly-frontend)
   - Jobly (Backend) [Repo](https://github.com/tsuyokoya/jobly-express)
   - Lights Out [Link](https://tsuyokoya-lights-out.netlify.app/) | [Repo](https://github.com/tsuyokoya/lights-out)
   - Pokemon Cards [Link](https://react-cards-pokemon.netlify.app/) | [Repo](https://github.com/tsuyokoya/react-cards-pokemon)
@@ -17,5 +18,5 @@
   - TV Maze [Link](https://tsuyokoya.github.io/tv-maze/) | [Repo](https://github.com/tsuyokoya/tv-maze)
   
 ### Languages / frameworks / tools: 
-  - Front-end: JavaScript | React | CSS | Bootstrap | Tailwind CSS | HTML
+  - Front-end: JavaScript | React | CSS | Bootstrap | Reactstrap | Tailwind CSS | HTML
   - Back-end: Flask | Node | Express | PostgreSQL
