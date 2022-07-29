@@ -9,13 +9,12 @@
 
 ### Check out some of my recent projects!
   - Vibify [Link](https://tk-vibify.herokuapp.com/) | [Repo](https://github.com/tsuyokoya/vibify)
-  - Jobly [Repo](https://github.com/tsuyokoya/jobly-express)
+  - Jobly (Backend) [Repo](https://github.com/tsuyokoya/jobly-express)
   - Lights Out [Link](https://tsuyokoya-lights-out.netlify.app/) | [Repo](https://github.com/tsuyokoya/lights-out)
+  - Pokemon Cards [Link](https://react-cards-pokemon.netlify.app/) | [Repo](https://github.com/tsuyokoya/react-cards-pokemon)
+  - Cat Friends [Link](https://tsuyokoya.github.io/cat-friends/) | [Repo](https://github.com/tsuyokoya/cat-friends)
   - Connect Four [Link](https://tsuyokoya.github.io/connect-four/) | [Repo](https://github.com/tsuyokoya/connect-four)
   - TV Maze [Link](https://tsuyokoya.github.io/tv-maze/) | [Repo](https://github.com/tsuyokoya/tv-maze)
-  - Jeopardy [Link](https://tsuyokoya.github.io/jeopardy/) | [Repo](https://github.com/tsuyokoya/jeopardy)
-  - Cat Friends [Link](https://tsuyokoya.github.io/cat-friends/) | [Repo](https://github.com/tsuyokoya/cat-friends)
-  - Currency Converter [Link](http://tsuyokoya.pythonanywhere.com/) | [Repo](https://github.com/tsuyokoya/forex-converter)
   
 ### Languages / frameworks / tools: 
   - Front-end: JavaScript | React | CSS | Bootstrap | Tailwind CSS | HTML
