@@ -1,7 +1,6 @@
 ### Welcome to my GitHub!
 
 - 🌱 I’m currently enrolled in an 800 hour Software Engineering Career Track Course.
-- 💬 Ask me about anything related to The Lord of the Rings!
 - 😄 Pronouns: He / Him
 - 📫 How to reach me: 
   - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/tsuyoshi-koyama-2018/)
