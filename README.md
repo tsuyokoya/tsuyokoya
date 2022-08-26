@@ -19,3 +19,4 @@
 ### Languages / frameworks / tools: 
   - Front-end: JavaScript | React | CSS | Bootstrap | Reactstrap | Tailwind CSS | HTML
   - Back-end: Flask | Node | Express | PostgreSQL
+  - Tools: Git | GitHub
