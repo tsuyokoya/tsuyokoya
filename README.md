@@ -15,7 +15,7 @@
   - Connect Four [Link](https://tsuyokoya.github.io/connect-four/) | [Repo](https://github.com/tsuyokoya/connect-four)
   - TV Maze [Link](https://tsuyokoya.github.io/tv-maze/) | [Repo](https://github.com/tsuyokoya/tv-maze)
   
-### Languages / frameworks / tools: 
+### Languages / Frameworks / Tools: 
   - Front-end: JavaScript | React | CSS | Bootstrap | Reactstrap | Tailwind CSS | HTML
   - Back-end: Flask | Node | Express | PostgreSQL
   - Tools: Git | GitHub
