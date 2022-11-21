@@ -1,6 +1,6 @@
 ### Welcome to my GitHub!
 
-- 😄 Pronouns: He / Him
+- 😄 Pronouns: He / Him / His
 - 📫 How to reach me: 
   - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/tsuyoshi-koyama-2018/)
   - ✉️: tsuyoshikoyama2525@gmail.com
