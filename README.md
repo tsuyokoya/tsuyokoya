@@ -1,6 +1,7 @@
 ### Welcome to my GitHub!
 
-- 😄 Pronouns: He / Him / His
+- 🌱 I'm currently a junior software engineer!
+- 😄 My Pronouns: He / Him / His
 - 📫 How to reach me: 
   - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/tsuyoshi-koyama-2018/)
   - ✉️: tsuyoshikoyama2525@gmail.com
