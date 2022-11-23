@@ -1,6 +1,6 @@
 ### Welcome to my GitHub!
 
-- 🌱 I'm currently a junior software engineer!
+- 🌱 I'm currently a junior software engineer working with Django and Vue!
 - 😄 My Pronouns: He / Him / His
 - 📫 How to reach me: 
   - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/tsuyoshi-koyama-2018/)
