@@ -1,7 +1,6 @@
 ### Welcome to my GitHub!
 
-- 🌱 I'm currently a junior software engineer working with Django and Vue!
-- 😄 My Pronouns: He / Him / His
+- 🌱 I am currently a software engineer working with Django and Vue!
 - 📫 How to reach me: 
   - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/tsuyoshi-koyama-2018/)
   - ✉️: tsuyoshikoyama2525@gmail.com
@@ -17,6 +16,6 @@
   - TV Maze [Link](https://tsuyokoya.github.io/tv-maze/) | [Repo](https://github.com/tsuyokoya/tv-maze)
   
 ### Languages / Frameworks / Tools: 
-  - Front-end: JavaScript | React | CSS | Bootstrap | Reactstrap | Tailwind CSS | HTML
-  - Back-end: Flask | Node | Express | PostgreSQL
+  - Front-end: Vue | React | CSS | Bootstrap | Reactstrap | Tailwind CSS | HTML
+  - Back-end: Django | Flask | Node | Express | PostgreSQL
   - Tools: Git | GitHub
